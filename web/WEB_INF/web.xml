@@ -13,12 +13,12 @@
 
     <servlet>
         <servlet-name>HelloServlet</servlet-name>
-        <servlet-class>examples.Hello</servlet-class>
+        <servlet-class>examples.hello</servlet-class>
     </servlet>
 
     <servlet-mapping>
         <servlet-name>HelloServlet</servlet-name>
-        <url-pattern>/Hello</url-pattern>
+        <url-pattern>/hello</url-pattern>
     </servlet-mapping>
 
 </web-app>     
