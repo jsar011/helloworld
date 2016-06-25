@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
  * Simple Hello servlet.
  */
 
-public final class Hello extends HttpServlet {
+public final class hello extends HttpServlet {
 
 
     /**
